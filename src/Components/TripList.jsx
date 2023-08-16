@@ -18,7 +18,7 @@ function TripList() {
                     data.map((trip) => (
                         <li key={trip.id}>
                             <h3>{trip.destination}</h3>
-                            <p>{trip.price}</p>
+                            <p>{trip.price}$</p>
                         </li>
                     ))}
             </ul>
