@@ -1,82 +1,102 @@
 {
     "trips": [
         {
+            "id": 1,
             "destination": "Paris, France",
             "price": 1200
         },
         {
+            "id": 2,
             "destination": "New York City, USA",
             "price": 1500
         },
         {
+            "id": 3,
             "destination": "Tokyo, Japan",
             "price": 1800
         },
         {
+            "id": 4,
             "destination": "Rome, Italy",
             "price": 1300
         },
         {
+            "id": 5,
             "destination": "Bali, Indonesia",
             "price": 900
         },
         {
+            "id": 6,
             "destination": "Cancun, Mexico",
             "price": 1100
         },
         {
+            "id": 7,
             "destination": "Sydney, Australia",
             "price": 1700
         },
         {
+            "id": 8,
             "destination": "Barcelona, Spain",
             "price": 1400
         },
         {
+            "id": 9,
             "destination": "Rio de Janeiro, Brazil",
             "price": 1600
         },
         {
+            "id": 10,
             "destination": "Santorini, Greece",
             "price": 1500
         },
         {
+            "id": 11,
             "destination": "Dubai, UAE",
             "price": 2000
         },
         {
+            "id": 12,
             "destination": "Maui, Hawaii",
             "price": 1900
         },
         {
+            "id": 13,
             "destination": "Amsterdam, Netherlands",
             "price": 1300
         },
         {
+            "id": 14,
             "destination": "Bangkok, Thailand",
             "price": 1000
         },
         {
+            "id": 15,
             "destination": "Cape Town, South Africa",
             "price": 1700
         },
         {
+            "id": 16,
             "destination": "London, UK",
             "price": 1600
         },
         {
+            "id": 17,
             "destination": "Machu Picchu, Peru",
             "price": 1800
         },
         {
+            "id": 18,
             "destination": "Havana, Cuba",
             "price": 1200
         },
         {
+            "id": 19,
             "destination": "Venice, Italy",
             "price": 1400
         },
         {
+            "id": 20,
             "destination": "Phuket, Thailand",
             "price": 1100
         }

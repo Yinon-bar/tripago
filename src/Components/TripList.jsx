@@ -4,7 +4,7 @@ import "./TripList.css";
 
 function TripList() {
     // const [trips, setTrips] = useState([]);
-    const [url, setUrl] = useState("http://localhost:3000/trips");
+    const [url, setUrl] = useState("http://localhost:3001/trips");
     const { data, isPending, error } = useFetch(url);
     console.log(data);
 
@@ -16,8 +16,8 @@ function TripList() {
             <ul>
                 {data &&
                     data.map((trip) => (
-                        <li key={Math.random()}>
-                            <h3>{trip.title}</h3>
+                        <li key={trip.id}>
+                            <h3>{trip.destination}</h3>
                             <p>{trip.price}</p>
                         </li>
                     ))}
@@ -26,7 +26,7 @@ function TripList() {
                 <button onClick={() => setUrl(url + "?loc=europe")}>
                     European Trips
                 </button>
-                <button onClick={() => setUrl("http://localhost:3000/trips")}>
+                <button onClick={() => setUrl("http://localhost:3001/trips")}>
                     All Trips
                 </button>
             </div>
