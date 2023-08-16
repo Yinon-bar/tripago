@@ -1,0 +1,84 @@
+{
+    "trips": [
+        {
+            "destination": "Paris, France",
+            "price": 1200
+        },
+        {
+            "destination": "New York City, USA",
+            "price": 1500
+        },
+        {
+            "destination": "Tokyo, Japan",
+            "price": 1800
+        },
+        {
+            "destination": "Rome, Italy",
+            "price": 1300
+        },
+        {
+            "destination": "Bali, Indonesia",
+            "price": 900
+        },
+        {
+            "destination": "Cancun, Mexico",
+            "price": 1100
+        },
+        {
+            "destination": "Sydney, Australia",
+            "price": 1700
+        },
+        {
+            "destination": "Barcelona, Spain",
+            "price": 1400
+        },
+        {
+            "destination": "Rio de Janeiro, Brazil",
+            "price": 1600
+        },
+        {
+            "destination": "Santorini, Greece",
+            "price": 1500
+        },
+        {
+            "destination": "Dubai, UAE",
+            "price": 2000
+        },
+        {
+            "destination": "Maui, Hawaii",
+            "price": 1900
+        },
+        {
+            "destination": "Amsterdam, Netherlands",
+            "price": 1300
+        },
+        {
+            "destination": "Bangkok, Thailand",
+            "price": 1000
+        },
+        {
+            "destination": "Cape Town, South Africa",
+            "price": 1700
+        },
+        {
+            "destination": "London, UK",
+            "price": 1600
+        },
+        {
+            "destination": "Machu Picchu, Peru",
+            "price": 1800
+        },
+        {
+            "destination": "Havana, Cuba",
+            "price": 1200
+        },
+        {
+            "destination": "Venice, Italy",
+            "price": 1400
+        },
+        {
+            "destination": "Phuket, Thailand",
+            "price": 1100
+        }
+    ]
+}
